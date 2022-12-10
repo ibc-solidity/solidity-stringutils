@@ -1,0 +1,6 @@
+{
+  "name": "solidity-stringutils",
+  "version": "0.0.1",
+  "description": "Basic string utilities for Solidity",
+  "license": "Apache2.0"
+}
